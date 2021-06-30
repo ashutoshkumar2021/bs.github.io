@@ -190,3 +190,8 @@ h2{
 p{
   font-family: "Montserrat";
 }
+@media (max-width: 1028px){
+  .ico{
+    padding:7px;
+  }
+}
