@@ -148,7 +148,7 @@ h2{
   
   color:white;
   background-color: #ff4c68;
-  padding:5%;
+  padding:7% 15%;
 }
 .download-button{
   margin: 5% 3% 5% 0 ;
@@ -157,12 +157,10 @@ h2{
 }
 .l{
   font-family: "Montserrat";
-  font-size: 2.5rem;
+  font-size: 3.5rem;
   line-height: 1.5;
   font-weight: bold;
   text-align: center;
-  padding-left: 300px;
-  padding-right: 300px;
 }
 @media (max-width: 1028px) {
     .l{
