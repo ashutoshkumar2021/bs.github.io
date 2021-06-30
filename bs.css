@@ -144,3 +144,49 @@ h2{
     text-align: center;
   }
 }
+#cta{
+  
+  color:white;
+  background-color: #ff4c68;
+  padding:5%;
+}
+.download-button{
+  margin: 5% 3% 5% 0 ;
+  padding:1%;
+  align-content: center;
+}
+.l{
+  font-family: "Montserrat";
+  font-size: 2.5rem;
+  line-height: 1.5;
+  font-weight: bold;
+  text-align: center;
+  padding-left: 300px;
+  padding-right: 300px;
+}
+@media (max-width: 1028px) {
+    .l{
+      font-size:1rem;
+      text-align: center;
+      padding-left: 175px;
+      padding-right: 175px;
+    }
+  }
+.ico{
+  padding:5px;
+}    
+.abc:hover{
+    color: blue;
+}
+.def:hover{
+  color:rgb(218, 129, 210);
+}
+.ghi:hover{
+  color:	#5B51D8;
+}
+.jkl:hover{
+  color:#bb001b;
+}
+p{
+  font-family: "Montserrat";
+}
